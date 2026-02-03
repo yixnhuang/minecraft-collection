@@ -39,12 +39,12 @@ All projects are rated on a **5-point scale** based on overall gameplay experien
 
 ## Maps
 
-| Name                                | Type                       | Core Gameplay                                        | Multiplayer | Language          | Played | Rating     |
-| ----------------------------------- | -------------------------- | ---------------------------------------------------- | ----------- | ----------------- | ------ | ---------- |
-| [Atmos](maps/atmos)                 | Roguelike Action Adventure | Fast-paced combat, relic upgrades, boss fights       | No          | English / Chinese | No     | ⭐⭐⭐⭐   |
-| [Terra Restore](maps/terra-restore) | CTM + RPG                  | Dungeon exploration, story progression, boss battles | Yes         | English / Chinese | No     | ⭐⭐⭐⭐⭐ |
-| [Final Paradox](maps/final-paradox) | Large-scale CTM            | Long-form challenge, multi-area objective collection | Yes         | English / Chinese | Yes    | ⭐⭐⭐⭐   |
-| [Ragecraft](maps/ragecraft)         | CTM Adventure              | High-difficulty combat, complex dungeon design       | Yes         | English / Chinese | No     | ⭐⭐⭐⭐   |
+| Name                                       | Type                       | Core Gameplay                                        | Multiplayer | Language          | Played | Rating     |
+| ------------------------------------------ | -------------------------- | ---------------------------------------------------- | ----------- | ----------------- | ------ | ---------- |
+| [Atmos](maps/atmos)                        | Roguelike Action Adventure | Fast-paced combat, relic upgrades, boss fights       | No          | English / Chinese | No     | ⭐⭐⭐⭐   |
+| [Terra Restore](maps/terra-restore)        | CTM + RPG                  | Dungeon exploration, story progression, boss battles | Yes         | English / Chinese | No     | ⭐⭐⭐⭐⭐ |
+| [Final Paradox](maps/final-paradox)        | Large-scale CTM            | Long-form challenge, multi-area objective collection | Yes         | English / Chinese | Yes    | ⭐⭐⭐⭐   |
+| [Ragecraft IV: Underworld(maps/ragecraft4) | CTM Adventure              | High-difficulty combat, complex dungeon design       | Yes         | English / Chinese | No     | ⭐⭐⭐⭐   |
 
 ---
 
