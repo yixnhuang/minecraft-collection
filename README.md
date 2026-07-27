@@ -1,5 +1,10 @@
 # Minecraft Collection
 
+> [!IMPORTANT]
+> This repository is a private archive retained for personal reference. It is
+> not actively maintained and does not grant redistribution rights for archived
+> third-party content.
+
 This repository is a curated personal archive of notable Minecraft maps and modpacks that I have played or plan to explore. It records practical details, version references, screenshots, and concise evaluations so each project is easier to revisit.
 
 ![Content](https://img.shields.io/badge/Content-Maps_%26_Modpacks-62B47A)
@@ -45,6 +50,11 @@ Ratings range from 1/5 (not recommended) to 5/5 (exceptional and highly recommen
     └── MITE-breaking-everything/
 ```
 
+## Project Status
+
+Archived. This private collection is retained for personal reference and has no
+planned feature development or routine maintenance.
+
 ## Rights and Attribution
 
 Minecraft and the archived projects belong to their respective owners and creators. This repository is independent and is not affiliated with or endorsed by Mojang Studios or Microsoft.
@@ -53,4 +63,8 @@ Do not redistribute archived third-party content unless its original license or 
 
 ## Contact
 
-For questions about this personal collection, contact [Yixuan Huang](mailto:yixnhuang@gmail.com) or visit [yixuanhuang.com](https://yixuanhuang.com).
+For questions or collaboration, use the contact details below or consult the
+website for the latest information.
+
+- Website: [yixuanhuang.com](https://yixuanhuang.com)
+- Email: [yixnhuang@gmail.com](mailto:yixnhuang@gmail.com)
